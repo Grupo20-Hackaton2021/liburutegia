@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Baloo Bhai';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.font {
+  font-family: 'Baloo Bhai';font-size: 22px;
+}
+
+.color {
+  background-color: #224A59;
+}
+
+.colorFondo {
+  background-color: white;
+}
